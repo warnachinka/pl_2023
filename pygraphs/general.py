@@ -1,0 +1,2 @@
+City = int
+Transport = int
